@@ -81,7 +81,7 @@ function Header() {
 return    <nav class="navbar navbar-expand-lg navbar-light bg-light">
 <div class="container">
     <a class="navbar-brand" href="#">
-        <img src="https://pbs.twimg.com/profile_images/1084343551553605632/J0pF7gVi_400x400.jpg" alt="Logo" width="50" height="50" /> MyReactWebsite
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="Logo" width="50" height="50" /> MyReactWebsite
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
         <span class="navbar-toggler-icon"></span>
